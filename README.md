@@ -47,4 +47,5 @@ more about installation on Heroku: https://devcenter.heroku.com/articles/heroku-
 
 
 
-<img width="853" alt="Screenshot 2025-03-04 at 11 41 48" src="https://github.com/user-attachments/assets/d0558011-eb1d-4743-9f93-e392028fbdf7" />
+<img width="853" alt="Screenshot 2025-03-04 at 11 41 48" src="https://github.com/user-attachments/assets/963328ff-2c7d-432c-bc7e-d0c096e5f1b0" />
+
