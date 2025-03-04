@@ -1,0 +1,67 @@
+body {
+    font-family: Roboto, sans-serif;
+    margin: 20px;
+    color: #757575;
+}
+
+
+html {
+
+	background-color: #212121;
+}
+
+
+#logsContainer {
+    border: 1px solid #262626;
+    padding: 10px;
+    height: 100vh;
+    
+    
+}
+
+
+.flex-container {
+  display: flex;
+  flex-direction: column;
+  
+}
+
+
+
+.error-item {
+
+
+	
+	color: #EA6160;
+}
+
+.normal-item {
+
+	
+	color: #757575;
+}
+
+span {
+
+	padding-right: 8px;
+}
+
+
+.btn-enabled {
+
+	background-color: #21AD75;
+	color: white;
+	border-radius: 8px;
+	padding: 8px;
+}
+
+
+.btn-disabled {
+	opacity: 0.2;
+}
+
+
+a {
+
+	color: #757575;
+}
